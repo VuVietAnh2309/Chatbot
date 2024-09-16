@@ -69,6 +69,10 @@ def clean_output_new(generated_text):
         user2_match = re.search(r"A:", cleaned_text)
         if user2_match:
             cleaned_text = cleaned_text[:user2_match.start()].strip()
+        
+        user3_match = re.search(r"Ý tưởng:", cleaned_text)
+        if user3_match:
+            cleaned_text = cleaned_text[:user3_match.start()].strip()
             
         question_match = re.search(r"Câu hỏi", cleaned_text)
         if question_match:
