@@ -1,5 +1,6 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import os
+from dotenv import load_dotenv
 
 # Cấu hình BitsAndBytes để tải mô hình 4-bit
 bnb_config = BitsAndBytesConfig(
