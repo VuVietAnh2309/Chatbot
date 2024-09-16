@@ -11,6 +11,8 @@ bnb_config = BitsAndBytesConfig(
 
 device_map = "auto"
 
+load_dotenv('.env')
+
 # Thiết lập mô hình và tokenizer
 def load_model():
     
