@@ -1,0 +1,12 @@
+transformers
+torch
+datasets
+bitsandbytes
+accelerate
+sentence-transformers
+peft
+trl
+python-dotenv
+rouge-score
+sentencepiece
+gradio
