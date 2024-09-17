@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-**VA-VSS** là trợ lý ảo thông minh được thiết kế để hỗ trợ người dùng một cách toàn diện trong các hoạt động chăm sóc khách hàng. Với khả năng tương tác, hướng dẫn, và thu thập phản hồi từ người dùng, VA-VSS giúp nâng cao trải nghiệm khách hàng, đồng thời được tích hợp sâu vào hệ thống chăm sóc khách hàng của **Vietsens**. Chatbot này không chỉ giúp giải đáp thắc mắc mà còn đóng vai trò là cầu nối giúp khách hàng sử dụng các sản phẩm và dịch vụ một cách hiệu quả hơn.
+**VA-VSS** (Virtual Assistant) là trợ lý ảo thông minh được thiết kế để hỗ trợ người dùng một cách toàn diện trong các hoạt động chăm sóc khách hàng. Với khả năng tương tác, hướng dẫn, và thu thập phản hồi từ người dùng, VA-VSS giúp nâng cao trải nghiệm khách hàng, đồng thời được tích hợp sâu vào hệ thống chăm sóc khách hàng của **Vietsens**. Chatbot này không chỉ giúp giải đáp thắc mắc mà còn đóng vai trò là cầu nối giúp khách hàng sử dụng các sản phẩm và dịch vụ một cách hiệu quả hơn.
 
 ## Mô hình sử dụng
 
